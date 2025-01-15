@@ -20,11 +20,7 @@ Krits is an innovative social media marketing platform designed to help you stre
 
 ## 🔗 Live Preview
 
-Check out the live demo of Krits here: [Live Preview](http://Krits-Ai.vercel.app)
-
-## 🎥 Watch Demo on YouTube
-
-Check out the tutorial to see how this social media marketing platform was built: [Watch the Tutorial](https://youtu.be/q8mOwYrpAHA?si=XpGy9VIKkaWJmfPL) 💻 
+Check out the live demo of Krits here: [Live Preview](http://Krits-Ai.vercel.app) 
 
 ## 💻 Tech Stack
 
@@ -44,7 +40,7 @@ To run Krits locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shreyas-29/Krits-Ai.git
+    git clone https://github.com/AshabWazowski/krits-ai-SMMA.git
     ```
 2. Install dependencies:
     ```bash
@@ -73,16 +69,7 @@ To run Krits locally, follow these steps:
     pnpm run dev
     ```
 
-## ☕ Buy Me a Coffee
-If you enjoy using Krits, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/shreyas29)
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 💬 Contact
-If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/Shreyas-29/Krits-Ai/issues).
+If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/AshabWazowski/krits-ai-SMMA/issues).
 
 ---
-
-Built with ❤️ by [Shreyas](https://shreyas-sihasane.vercel.app/)
